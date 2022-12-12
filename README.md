@@ -1,3 +1,4 @@
+# Vaibhav Chimalgi
 # 💫 About Me:
 👨🏽‍💻 Pursuing Ms by Research in CSE at IIIT-Hyd.<br>🔭 I’m currently working on  implementing Shamir’s Secret Sharing scheme in Go.<br>⚡️ I’m looking for developer roles as in Protocol developer/Quant Developer/Backend.<br>👾 I do have some experience in frontend+Django.<br>🌱 I’m currently learning Go, C++, DSA.<br>💬 Open for collab.<br>
 
